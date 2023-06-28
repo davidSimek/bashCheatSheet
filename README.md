@@ -1,4 +1,4 @@
-# Bash cheat-sheet
+# Bash bashcheat-sheet
 
 ## Variables
 ```bash
@@ -60,7 +60,7 @@ rm -r unwanteddir                    # Remove a directory and its contents recur
 ```
 ## Permissions
 ```bash
-chmod 755 myfile.txt                 # Change permissions of a file
+chmod u+x myfile.txt                 # Change permissions of a file
 
 ```
 ## Input/Output
