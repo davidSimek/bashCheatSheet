@@ -150,3 +150,5 @@ else
     echo "Name does not match the pattern"
 fi
 ```
+
+made with help of https://chat.openai.com/
