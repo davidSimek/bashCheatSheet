@@ -1,4 +1,4 @@
-# Bash bashcheat-sheet
+# Bash heat-sheet
 
 ## Variables
 ```bash
@@ -74,7 +74,6 @@ echo "You entered: $input_variable"  # Print the user input
 ls                                   # Execute a command
 echo "Exit status: $?"               # Print the exit status of the previous command
 
-```
 ## While Loop
 ```bash
 counter=0
