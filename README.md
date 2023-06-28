@@ -60,7 +60,7 @@ rm -r unwanteddir                    # Remove a directory and its contents recur
 ```
 ## Permissions
 ```bash
-chmod u+x myfile.txt                 # Change permissions of a file
+chmod u+u+xx myfile.txt                 # Change permissions of a file
 
 ```
 ## Input/Output
@@ -73,13 +73,6 @@ echo "You entered: $input_variable"  # Print the user input
 ```bash
 ls                                   # Execute a command
 echo "Exit status: $?"               # Print the exit status of the previous command
-
-```
-## Examples
-```bash
-echo "Hello, World!"                 # Print "Hello, World!"
-ls                                  # List files and directories in the current directory
-mkdir new_directory                 # Create a new directory
 
 ```
 ## While Loop
