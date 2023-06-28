@@ -1,4 +1,4 @@
-# Bash heat-sheet
+# Bash cheat-sheet
 
 ## Variables
 ```bash
